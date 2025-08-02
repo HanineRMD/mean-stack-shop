@@ -1,0 +1,15 @@
+.editorconfig
+.git*
+.htmlhintrc
+.prettierrc
+.stylelintrc
+.eslinttrc
+.svgorc
+.vscode
+README.md
+builds
+coverage
+e2e
+node_modules
+proxy.conf.js
+raml
